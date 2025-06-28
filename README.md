@@ -8,7 +8,7 @@
 
 - My Skills
 
-### [Click here to see the project demo]()
+### [Click here to see the project demo](https://react-todo-app-sample-2.vercel.app/)
 
 ---
 
